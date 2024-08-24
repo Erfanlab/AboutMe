@@ -48,19 +48,21 @@
 <hr>
 <div>
   
-<img
- href="
- https://github.com/Erfanlab
-"          width="40"
+<img href="https://github.com/Erfanlab" 
+          width="40"
           height="40"
           src="https://github.com/Erfanlab/Erfanlab/blob/main/github.jpg?raw=true"
           alt="git"
         />
-  
- </a>
+<img href="(https://t.me/Erfan_MFD") 
+          width="40"
+          height="40"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/github.jpg?raw=true"
+          alt="git"
+        />
  
  
-      <a  href="https://t.me/Erfan_MFD">
+      <a  href=">
       text-decoration: none;" href="https://www.linkedin.com/in/mohammaderfan-labbafi-2b300b22a/">
 
 </div>
