@@ -272,14 +272,7 @@
       
       ">
   </main>
-  <footer style="  width: 500px;
-  height: 50px;
-  background-color: #787878;
-  border-radius: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  gap: 10px;">
+  
     <div style=" width: 865px;
       height: 92px;
       background-color: #787878;
@@ -411,5 +404,4 @@
         align-items: center;
       
       ">
-  </footer>
 </article>
