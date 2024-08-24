@@ -10,13 +10,6 @@
       flex-direction: row !important;
       justify-content: center;
       align-items: center !important;
-      flex-wrap: wrap;
-      gap: 20px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: left;
       " class="card languages">
         <img
           width="40"
