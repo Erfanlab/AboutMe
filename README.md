@@ -5,7 +5,7 @@
         <img
           width="40"
           height="40"
-         style="margin-left:20px;"
+         style="margin:20px;"
           src="https://s32.picofile.com/file/8478593326/javascript.png"
           alt="javascript"
         />
