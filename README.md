@@ -50,7 +50,7 @@
   <a href="https://t.me/Erfan_MFD"  style="text-decoration:none;"><img
           width="50"
           height="50"
-          src="https://github.com/Erfanlab/Erfanlab/blob/main/telegram.jpg?raw=true"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/kisspng-airplane-paper-plane-computer-icons-flight-5b3c0ef643acf7.8561279215306626462772.png?raw=true"
           alt="git"
         />
         </a>
