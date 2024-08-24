@@ -49,7 +49,7 @@
 <hr>
 <div>
  
-<title>contact me</title>
+<strong>contact me</strong>
 
   <a style="text-decoration: none;" href="https://t.me/Erfan_MFD"><img
           width="35"
