@@ -10,15 +10,13 @@
           alt="javascript"
         />
         <img
-         style="margin-left:20px;"
-          width="40"
+style="margin:20px;"          width="40"
           height="40"
           src="https://s32.picofile.com/file/8478600426/typescript.png"
           alt="TypeScript"
         />
         <img
-         style="margin-left:20px;"
-          width="40"
+style="margin:20px;"          width="40"
           height="40"
           src="https://s32.picofile.com/file/8478593376/sass.png"
           alt="sass"
