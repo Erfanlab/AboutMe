@@ -324,13 +324,7 @@
         align-items: center;
       
       ">
-      <a style=" width: 100%;
-      height: 100%;
-      font-size: 40px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      text-decoration: none;" href="https://t.me/Erfan_MFD">
+      <a  href="https://t.me/Erfan_MFD">
         <i class="fa fa-telegram" style="display: flex;
         justify-content: center;
         width: 100%;
