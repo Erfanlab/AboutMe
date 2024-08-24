@@ -47,15 +47,20 @@
       </div> 
 <hr>
 <div>
+ <a href="
+ https://github.com/Erfanlab
+  
+  ">
         <img
           width="40"
           height="40"
           src="https://github.com/Erfanlab/Erfanlab/blob/main/github.jpg?raw=true"
           alt="git"
         />
+  
+ </a>
  
  
-       text-decoration: none;" href="https://github.com/Erfanlab">
       <a  href="https://t.me/Erfan_MFD">
       text-decoration: none;" href="https://www.linkedin.com/in/mohammaderfan-labbafi-2b300b22a/">
 
