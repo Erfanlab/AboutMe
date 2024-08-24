@@ -130,17 +130,7 @@
         text-align: left;
       
       ">
-    </div style=" width: 865px;
-      height: 92px;
-      background-color: #787878;
-      width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: left;
-      
-      ">
+    </div> 
     <div style=" width: 865px;
       height: 92px;
       background-color: #787878;
