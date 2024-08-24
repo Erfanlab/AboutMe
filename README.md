@@ -23,7 +23,7 @@
         />
         <img
           width="40"
-          height="40"
+          height="30"
           src="https://s32.picofile.com/file/8478593384/tailwind.png"
           alt="tailwind"
         />
