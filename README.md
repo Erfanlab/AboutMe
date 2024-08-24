@@ -45,6 +45,12 @@
           src="https://s32.picofile.com/file/8478600442/giticon.png"
           alt="git"
         />
+        <img
+          width="40"
+          height="40"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/c75b66a0418070a45298e7db1f66c65d.png?raw=true"
+          alt="python"
+        />
       </div> 
 <hr>
 <div>
