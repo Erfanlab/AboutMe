@@ -64,14 +64,14 @@
         <a href="https://www.linkedin.com/in/mohammaderfan-labbafi-2b300b22a/" style="text-decoration:none;"><img
           width="50"
           height="50"
-          src="https://github.com/Erfanlab/Erfanlab/blob/main/linkedin1.png?raw=true"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/24b2525587a65f650404177a5afee8ae.png?raw=true"
           alt="git"
         />
         </a>
         <a href="" style="text-decoration:none;"><img
           width="50"
           height="50"
-          src="https://github.com/Erfanlab/Erfanlab/blob/main/instagram.jpg?raw=true"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/kisspng-social-media-computer-icons-youtube-logo-kindred-o-goong-5ade2489853cd4.1405750615245077855458.png?raw=true"
           alt="git"
         />
         </a>
