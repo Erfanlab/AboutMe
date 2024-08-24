@@ -47,26 +47,33 @@
       </div> 
 <hr>
 <div>
-  
-<img href="https://github.com/Erfanlab" 
+  <a href="https://t.me/Erfan_MFD"><img
           width="40"
           height="40"
-          src="https://github.com/Erfanlab/Erfanlab/blob/main/github.jpg?raw=true"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/telegram.jpg?raw=true"
           alt="git"
         />
-        <a href="https://t.me/Erfan_MFD"><img
+        </a>
+        <a href="https://github.com/Erfanlab"><img
           width="40"
           height="40"
           src="https://github.com/Erfanlab/Erfanlab/blob/main/github.jpg?raw=true"
           alt="git"
         />
         </a>
-        
-
-        
- 
- 
-      <a  href=">
-      text-decoration: none;" href="https://www.linkedin.com/in/mohammaderfan-labbafi-2b300b22a/">
+        <a href="https://www.linkedin.com/in/mohammaderfan-labbafi-2b300b22a/"><img
+          width="40"
+          height="40"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/linkedin1.png?raw=true"
+          alt="git"
+        />
+        </a>
+        <a href=""><img
+          width="40"
+          height="40"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/instagram.jpg?raw=true"
+          alt="git"
+        />
+        </a>
 
 </div>
