@@ -50,7 +50,7 @@
 <hr>
 <div>
  
-<strong>contact me</strong>
+<strong>contact me:</strong>
 
   <a style="text-decoration: none;" href="https://t.me/Erfan_MFD"><img
           width="35"
