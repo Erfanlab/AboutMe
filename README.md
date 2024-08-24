@@ -47,12 +47,11 @@
       </div> 
 <hr>
 <div>
- <a href="
- https://github.com/Erfanlab
   
-  ">
-        <img
-          width="40"
+<img
+ href="
+ https://github.com/Erfanlab
+"          width="40"
           height="40"
           src="https://github.com/Erfanlab/Erfanlab/blob/main/github.jpg?raw=true"
           alt="git"
