@@ -1,9 +1,8 @@
 <h1>MohammadErfan Labbafi</h1>
-<hr>
-<strong>Languages & Frameworks:</strong>
+<strong rel="nofollow">Languages & Frameworks:</strong>
 <br>
- <div style=" width: 865px;
-      height: 92px;
+ <div
+  style="
       background-color: #787878;
       width: 100%;
       height: 100%;
