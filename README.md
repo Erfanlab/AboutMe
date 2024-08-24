@@ -64,7 +64,7 @@
         <a href="https://www.linkedin.com/in/mohammaderfan-labbafi-2b300b22a/" style="text-decoration: none;"><img
           width="35"
           height="35"
-          src="https://github.com/Erfanlab/Erfanlab/blob/main/24b2525587a65f635404177a5afee8ae.png?raw=true"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/24b2525587a65f650404177a5afee8ae.png?raw=true"
           alt="git"
         />
         </a>
