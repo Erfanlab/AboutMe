@@ -82,8 +82,8 @@
 
 </div>
 <tell>My Phone: +989919295106</tell></br>
-<mail>erfanlabbafi450@gmail.com</mail></br>
-<addres>Iran,Tehran</addres></br>
+<mail>Email Address: erfanlabbafi450@gmail.com</mail></br>
+<addres>Location: Iran,Tehran</addres></br>
 <meta name="description" content="erfanlabbafi">
 <meta name="description" content="developer erfanlabbafi">
 <meta name="description" content="frontend erfanlabbafi">
