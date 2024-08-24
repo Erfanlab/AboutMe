@@ -57,7 +57,7 @@
         <a href="https://github.com/Erfanlab" style="text-decoration:none;"><img
           width="50"
           height="50"
-          src="https://github.com/Erfanlab/Erfanlab/blob/main/github.jpg?raw=true"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/486f3879feff05e066add734e612f680.png?raw=true"
           alt="git"
         />
         </a>
