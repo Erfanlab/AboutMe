@@ -48,29 +48,29 @@
 <hr>
 <div>
   <a style="text-decoration: none;" href="https://t.me/Erfan_MFD"><img
-          width="50"
-          height="50"
+          width="35"
+          height="35"
           src="https://github.com/Erfanlab/Erfanlab/blob/main/kisspng-airplane-paper-plane-computer-icons-flight-5b3c0ef643acf7.8561279215306626462772.png?raw=true"
           alt="git"
         />
         </a>
         <a href="https://github.com/Erfanlab" style="text-decoration: none;"><img
-          width="50"
-          height="50"
+          width="35"
+          height="35"
           src="https://github.com/Erfanlab/Erfanlab/blob/main/486f3879feff05e066add734e612f680.png?raw=true"
           alt="git"
         />
         </a>
         <a href="https://www.linkedin.com/in/mohammaderfan-labbafi-2b300b22a/" style="text-decoration: none;"><img
-          width="50"
-          height="50"
-          src="https://github.com/Erfanlab/Erfanlab/blob/main/24b2525587a65f650404177a5afee8ae.png?raw=true"
+          width="35"
+          height="35"
+          src="https://github.com/Erfanlab/Erfanlab/blob/main/24b2525587a65f635404177a5afee8ae.png?raw=true"
           alt="git"
         />
         </a>
         <a href="" style="text-decoration: none;"><img
-          width="50"
-          height="50"
+          width="35"
+          height="35"
           src="https://github.com/Erfanlab/Erfanlab/blob/main/kisspng-social-media-computer-icons-youtube-logo-kindred-o-goong-5ade2489853cd4.1405750615245077855458.png?raw=true"
           alt="git"
         />
